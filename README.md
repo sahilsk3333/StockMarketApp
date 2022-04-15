@@ -1,4 +1,4 @@
-# CryptocurrencyApp
+# StockMarketApp
 
 A Simple StockMarketApp Developed Using JetCompose with Clean Architecture and MVVM 
 
