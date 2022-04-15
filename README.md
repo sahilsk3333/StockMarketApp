@@ -5,6 +5,7 @@ A Simple StockMarketApp Developed Using JetCompose with Clean Architecture and M
 - Written in Kotlin
 - JetCompose 
 - Custom Graph using Canvas
+- CSV File Parcing (Using OpenCSV)
 - Dagger Hilt (For dependency Injection)
 - RoomDatabase (For Offline Cache)
 - RetroFit (For Api Calls)
